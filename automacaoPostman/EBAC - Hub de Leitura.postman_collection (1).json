@@ -90,7 +90,7 @@
               }
             },
             "url": {
-              "raw": "{{baseUrl}}users",
+              "raw": "{{baseUrl}}/users",
               "host": [
                 "{{baseUrl}}users"
               ]
